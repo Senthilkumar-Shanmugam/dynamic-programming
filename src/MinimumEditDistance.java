@@ -1,11 +1,11 @@
 /**
  * Created by Priyank Agrawal on 11/20/2016.
  *
- * To find how many edit operations of either insert, update or delete are required two get two equal strings
- * with the help of Minimum edit distance - dynamic programming approach
+ * To find how many edit operations of either insert, update or delete are required to get two equal strings
+ * from two given strings of length m and n using dynamic programming approach
  *
- * Time complexity is O(n^2)
- * Space complexity is O(n^2)
+ * Time complexity is O(m*n)
+ * Space complexity is O(m*n)
  */
 public class MinimumEditDistance {
 
