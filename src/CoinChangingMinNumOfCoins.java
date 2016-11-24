@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Given a total and an infinite supply of certain coin denominations,
  * the minimum number of coins to form the total
  */
-public class CoinChanging {
+public class CoinChangingMinNumOfCoins {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
