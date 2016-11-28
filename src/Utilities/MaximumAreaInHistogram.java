@@ -19,7 +19,7 @@ public class MaximumAreaInHistogram {
         System.out.print("The maximum rectangular area in the given histogram is: " + area);
     }
 
-    int maximumArea(int[] input) {
+    public int maximumArea(int[] input) {
         Stack<Integer> stack = new Stack<>();
         int maxArea = 0;
         int area = 0;
