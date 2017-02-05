@@ -3,13 +3,13 @@ import java.util.Scanner;
 /**
  * @author Priyank Agrawal
  *
- * 0/1 Knapsack problem by Dynamic Programming
+ * 0/1 Knapsack problem by Dynamic Programming Bottom Up approach
  *
  * To maximize the value of the knapsack by the total weight it can hold according to its capacity
  *
  * Date: 10/03/2016
  */
-public class DiscreteKnapsack {
+public class DiscreteKnapsackBottomUp {
 
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
