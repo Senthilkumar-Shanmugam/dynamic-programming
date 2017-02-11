@@ -34,7 +34,6 @@ public class MinimumJumps {
 
             }
         }
-
         return jump[jump.length - 1];
     }
 
