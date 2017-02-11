@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/20/2016.
  *
+ * Egg dropping problem by Dynamic programming approach
+ *
  * To find minimum number of attempts required to break all the given eggs(say x) from any number of given floors(say y)
  * using dynamic programming approach
  *

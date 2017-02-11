@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/20/2016.
  *
+ * Minimum edit distance problem by Dynamic programming approach
+ *
  * To find how many edit operations of either insert, update or delete are required to get two equal strings
  * from two given strings of length m and n using dynamic programming approach
  *

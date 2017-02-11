@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/26/2016.
  *
+ * Text justification problem by Dynamic programming approach
+ *
  * To find optimum arrangements of words from given word list in each line
  * where each line can consist of only a given number of characters
  *

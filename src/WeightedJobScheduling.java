@@ -4,6 +4,8 @@ import java.util.Comparator;
 /**
  * Created by Priyank Agrawal on 11/22/2016.
  *
+ * Weighted job scheduling problem by Dynamic programming approach
+ *
  * Selecting jobs according to their start and finish times to achieve maximum profit
  * using dynamic programming approach
  *

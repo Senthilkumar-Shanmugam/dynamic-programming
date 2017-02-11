@@ -6,6 +6,8 @@ import java.util.LinkedList;
 /**
  * Created by Priyank Agrawal on 11/23/2016.
  *
+ * Maximum size rectangular sub-matrix problem by Dynamic programming approach
+ *
  * To find a sub-matrix of rectangle shape of maximum size from a given matrix of 0's and 1's
  * using dynamic programming
  *

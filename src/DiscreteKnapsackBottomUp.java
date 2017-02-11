@@ -1,13 +1,14 @@
 import java.util.Scanner;
 
 /**
- * @author Priyank Agrawal
+ * Created by Priyank Agrawal on 10/03/2016.
  *
- * 0/1 Knapsack problem by Dynamic Programming Bottom Up approach
+ * 0/1 Knapsack problem by Dynamic programming bottom up approach
  *
  * To maximize the value of the knapsack by the total weight it can hold according to its capacity
  *
- * Date: 10/03/2016
+ * Time complexity is O(n^2)
+ * Space complexity is O(n^2)
  */
 public class DiscreteKnapsackBottomUp {
 

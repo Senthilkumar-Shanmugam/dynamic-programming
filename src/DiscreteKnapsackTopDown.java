@@ -3,7 +3,7 @@ import java.util.HashMap;
 /**
  * Created by Priyank Agrawal on 2/4/2017.
  *
- * 0/1 Knapsack problem by Dynamic Programming Top Down Memoization approach
+ * 0/1 Knapsack problem by Dynamic programming top down memoization approach
  *
  * To maximize the value of the knapsack by the total weight it can hold according to its capacity
  *

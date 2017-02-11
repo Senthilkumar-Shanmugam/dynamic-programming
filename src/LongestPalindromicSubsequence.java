@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/20/2016.
  *
+ * Longest palindromic sub-sequence problem by Dynamic programming approach
+ *
  * To find the longest palindromic sub-sequence from a given sequence or a string by
  * dynamic programming approach
  *

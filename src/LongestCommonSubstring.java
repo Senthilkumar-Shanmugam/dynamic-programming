@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/22/2016.
  *
+ * Longest common substring problem by Dynamic programming approach
+ *
  * To find length of the longest common substring from two given strings
  * using dynamic programming
  *

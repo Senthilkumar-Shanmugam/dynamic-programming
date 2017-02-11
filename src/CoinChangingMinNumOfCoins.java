@@ -1,12 +1,15 @@
 import java.util.Scanner;
 
 /**
- * @author Priyank Agrawal
+ * @author Priyank Agrawal on 11/23/2016.
  * 
- * Coin changing problem with dynamic programming approach
+ * Coin changing problem by Dynamic programming approach
  * 
  * Given a total and an infinite supply of certain coin denominations,
  * the minimum number of coins to form the total
+ *
+ * Time complexity is O(n^2)
+ * Space complexity is O(n^2)
  */
 public class CoinChangingMinNumOfCoins {
 

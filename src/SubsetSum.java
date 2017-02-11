@@ -1,14 +1,12 @@
 import java.util.Scanner;
 
 /**
- * @author Priyank Agrawal
+ * Created by Priyank Agrawal on 10/05/2016
  *
- * Subset sum problem by Dynamic Programming
+ * Subset sum problem by Dynamic programming approach
  *
  * To check whether the specified number can be obtained from a subset
  * of a list of numbers provided
- * 
- * Date: 10/05/2016
  */
 public class SubsetSum {
 

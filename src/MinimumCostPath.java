@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 2/2/2017.
  *
+ * Minimum cost path problem by Dynamic programming approach
+ *
  * To find the minimum cost of traveling from the first position of the matrix
  * to its last position
  *

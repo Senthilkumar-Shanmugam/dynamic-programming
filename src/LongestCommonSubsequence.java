@@ -1,13 +1,14 @@
 import java.util.Scanner;
 
 /**
- * @author Priyank Agrawal
+ * Created by Priyank Agrawal on 11/22/2016.
  * 
- * Longest common subsequence problem by Dynamic Programming
+ * Longest common sub-sequence problem by Dynamic programming approach
  * 
  * To get the length of the longest common string made from the two given strings
  * 
- * Date: 10/04/2016
+ * Time complexity is O(n^2)
+ * Space complexity is O(n^2)
  */
 public class LongestCommonSubsequence {
 	

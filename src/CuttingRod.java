@@ -1,6 +1,8 @@
 /**
  * Created by Priyank Agrawal on 11/22/2016.
  *
+ * Cutting rod problem by Dynamic programming approach
+ *
  * To find the optimal way to cut a rod to maximize its price
  * using dynamic programming
  *

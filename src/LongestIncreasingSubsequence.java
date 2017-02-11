@@ -1,7 +1,12 @@
 /**
- * @author Priyank Agrawal
+ * Created by Priyank Agrawal on 11/22/2016.
  *
- * Longest increasing subsequence problem by Dynamic programming approach
+ * Longest increasing sub-sequence problem by Dynamic programming approach
+ *
+ * To find the longest increasing sub-sequence from a given sequence or a string
+ *
+ * Time complexity is O(n^2)
+ * Space complexity is O(n^2)
  */
 public class LongestIncreasingSubsequence {
 
