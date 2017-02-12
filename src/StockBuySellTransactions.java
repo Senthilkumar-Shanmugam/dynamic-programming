@@ -1,7 +1,7 @@
 /**
  * Created by Priyank Agrawal on 2/11/2017.
  *
- * Stock buy sell transactions by Dynamic programming approach
+ * Stock buy sell transactions problem by Dynamic programming approach
  *
  * To make given no. of transactions to buy and sell stocks in such a way that
  * it maximizes the profit

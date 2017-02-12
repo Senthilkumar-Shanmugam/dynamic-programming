@@ -1,7 +1,7 @@
 /**
  * Created by Priyank Agrawal on 11/23/2016.
  *
- * Coin changing minimum no. of ways by Dynamic programming approach
+ * Coin changing minimum no. of ways problem by Dynamic programming approach
  *
  * To find minimum number of ways of achieving given amount from the coin
  * denominations supplied using dynamic programming

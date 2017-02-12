@@ -1,7 +1,7 @@
 /**
  * Created by Priyank Agrawal on 2/6/2017.
  *
- * Minimum no. of jumps by Dynamic programming approach
+ * Minimum no. of jumps problem by Dynamic programming approach
  *
  * To find the minimum number of jumps to reach the end of an array
  *
