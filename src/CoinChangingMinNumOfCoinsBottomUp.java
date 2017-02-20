@@ -8,10 +8,10 @@ import java.util.Scanner;
  * Given a total and an infinite supply of certain coin denominations,
  * the minimum number of coins to form the total
  *
- * Time complexity is O(n^2)
- * Space complexity is O(n^2)
+ * Time complexity is O(total*number of coins)
+ * Space complexity is O(total*number of coins)
  */
-public class CoinChangingMinNumOfCoins {
+public class CoinChangingMinNumOfCoinsBottomUp {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
