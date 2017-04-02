@@ -6,7 +6,7 @@
  * To find the longest increasing sub-sequence from a given sequence or a string
  *
  * Time complexity is O(n^2)
- * Space complexity is O(n^2)
+ * Space complexity is O(n)
  */
 public class LongestIncreasingSubsequence {
 
