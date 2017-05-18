@@ -1,10 +1,7 @@
-# Dynamic Programming
+## Dynamic Programming
 References: GeeksforGeeks, Tushar Roy's Dynamic Programming Videos
 
-# Description
-Solutions to different problems using the dynamic programming approach.
-
-# Code Implementations
+### Code
 1.	[Burst Balloon](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/BurstBalloon.java)
 2.	[Coin Changing Min Num Of Coins Bottom Up](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/CoinChangingMinNumOfCoinsBottomUp.java)
 3.	[Coin Changing Min Num Of Coins Top Down](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/CoinChangingMinNumOfCoinsTopDown.java)
@@ -32,8 +29,5 @@ Solutions to different problems using the dynamic programming approach.
 25.	[Weighted Job Scheduling](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/WeightedJobScheduling.java)
 26.	[WildCard Matching](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/WildCardMatching.java)
 
-# Technologies
+### Programming Language
 Java
-
-# IDE
-IntelliJ IDEA
