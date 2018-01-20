@@ -1,5 +1,5 @@
 ## Dynamic Programming
-References: GeeksforGeeks, Tushar Roy's Dynamic Programming Videos
+References: [GeeksforGeeks](https://www.geeksforgeeks.org/), [Tushar Roy's Dynamic Programming Videos](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
 ### Code
 1.	[Burst Balloon](https://github.com/agrawal-priyank/dynamic-programming/blob/master/src/BurstBalloon.java)
